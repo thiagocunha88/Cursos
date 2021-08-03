@@ -1,0 +1,7 @@
+.cabecalho__menu--item {
+    list-style: none;
+}
+
+.cabecalho__menu--item:last-child .cabecalho__menu-link {
+    margin-right: 0;
+}
